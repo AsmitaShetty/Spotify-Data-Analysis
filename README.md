@@ -22,7 +22,7 @@ valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed 
 tempo: The overall estimated tempo of a track in beats per minute (BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration.
 genre: Genre of the track.
 
-#Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 The following images represent various visualizations created during the exploratory data analysis of the Spotify dataset:
 
